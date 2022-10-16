@@ -1,2 +1,0 @@
-# myNFC
-Flutter NFC app
